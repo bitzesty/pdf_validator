@@ -4,6 +4,8 @@ PDF/A Validation using Apache PDFbox (1.8.8).
 
 ## Installation
 
+*Requires Java*
+
 Add this line to your application's Gemfile:
 
 ```ruby
